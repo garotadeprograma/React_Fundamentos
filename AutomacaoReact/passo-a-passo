@@ -1,0 +1,11 @@
+npm init y - iniciar um pacote > erro: npm ERR! could not determine executable to run
+{
+    npm init
+    npm init -y
+}
+
+add html
+npm install esbuild
+npm install react react-dom
+
+ 
